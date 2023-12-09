@@ -93,7 +93,7 @@ const Footer = () => {
             <p className={`${classes.links} ${classes.phone} fw-semibold`}>
               +524 723 36 72
             </p>
-            <p className={`${classes.links} fw-semibold`}>support@test.com</p>
+            <p className={`${classes.links} fw-semibold`}>support@engMeow.com</p>
           </div>
         </div>
       </div>
